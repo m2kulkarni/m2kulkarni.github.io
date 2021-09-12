@@ -1,0 +1,76 @@
+InfoBegin
+InfoKey: Keywords
+InfoValue:  , curriculum vit&#230;, resum&#233;
+InfoBegin
+InfoKey: Creator
+InfoValue: LaTeX with &apos;moderncv&apos; package
+InfoBegin
+InfoKey: ModDate
+InfoValue: D:20210912150124Z
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20210912150124Z
+InfoBegin
+InfoKey: Producer
+InfoValue: pdfTeX-1.40.21
+InfoBegin
+InfoKey: Subject
+InfoValue: Resum&#233; of  
+InfoBegin
+InfoKey: PTEX.Fullbanner
+InfoValue: This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) kpathsea version 6.3.2
+InfoBegin
+InfoKey: Author
+InfoValue:  
+InfoBegin
+InfoKey: Title
+InfoValue: Mohit_CV
+PdfID0: 351e5cc4c3a1088c10f24f55b49a59c8
+PdfID1: f5c785fd2020eb406bc4b85a93ce2ab5
+NumberOfPages: 2
+BookmarkBegin
+BookmarkTitle: Education
+BookmarkLevel: 1
+BookmarkPageNumber: 1
+BookmarkBegin
+BookmarkTitle: Research Interests
+BookmarkLevel: 1
+BookmarkPageNumber: 1
+BookmarkBegin
+BookmarkTitle: Research Experience
+BookmarkLevel: 1
+BookmarkPageNumber: 1
+BookmarkBegin
+BookmarkTitle: Selected Projects
+BookmarkLevel: 1
+BookmarkPageNumber: 1
+BookmarkBegin
+BookmarkTitle: Relevant Courses
+BookmarkLevel: 1
+BookmarkPageNumber: 2
+BookmarkBegin
+BookmarkTitle: Technical Skills
+BookmarkLevel: 1
+BookmarkPageNumber: 2
+BookmarkBegin
+BookmarkTitle: Talks and Mentorship
+BookmarkLevel: 1
+BookmarkPageNumber: 2
+BookmarkBegin
+BookmarkTitle: Extra-Curricular Activities
+BookmarkLevel: 1
+BookmarkPageNumber: 2
+BookmarkBegin
+BookmarkTitle: Camps and Workshops
+BookmarkLevel: 1
+BookmarkPageNumber: 2
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 2
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
