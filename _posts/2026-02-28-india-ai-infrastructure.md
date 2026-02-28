@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "India's AI Infrastructure: Compute, Energy, and Models"
+title: "India's AI Infrastructure — Part 1: Compute"
 subtitle: "Understanding where India stands in the AI race — and why the next few years matter more than we think."
 date: 2026-02-28
 ---
@@ -17,7 +17,7 @@ Third, Model Capabilities — India for sure needs to keep on developing its mod
 
 My goal is to understand the geopolitical and practical implications behind all of this. The world is in a brittle place, and understanding specific policies will give us a better idea on how to navigate this uncertainty ahead.
 
-This blogpost is also not about what capabilities AI models will have in the near future, nor their implications on the economy. For that, I'd point to a few sources. Note that all these sources are super bullish about progress in AI capabilities, and you may choose to believe otherwise. Personally, I am very scale-pilled (cite bitter lesson) and have chosen to write everything under this assumption.
+This blogpost is also not about what capabilities AI models will have in the near future, nor their implications on the economy. For that, I'd point to a few sources. Note that all these sources are super bullish about progress in AI capabilities, and you may choose to believe otherwise. Personally, I am very scale-pilled and have chosen to write everything under this assumption. Rich Sutton's [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) is worth reading if you want to understand why.
 
 1. [AI 2027](https://ai-2027.com/)
 2. [Dario Amodei — Machines of Loving Grace](https://darioamodei.com/machines-of-loving-grace)
@@ -25,7 +25,7 @@ This blogpost is also not about what capabilities AI models will have in the nea
 
 This is bigger than the industrial revolution, and every nation and individual needs to tread this path carefully. Throughout this essay I will focus on US and China as the main players (competitors if you like) in this race and what it probably means for India.
 
-## Part 1 — Compute
+## Compute
 
 When i say datacenter compute, i mean total capacity — AI and non-AI combined.
 
@@ -60,10 +60,9 @@ The next 3–5 years are the window. After which the geopolitical landscape arou
 
 Compute however, isn't the whole picture. With compute, we will need to scale power behind it, and scaling that is a beast on its own. In the next part, I'll explore India's energy capabilities, the demands AI infrastructure will place on them, and how this connects to the token economy.
 
-## Part 2 — Energy
+---
 
-*Coming soon.*
+*This is Part 1 of a 3-part series on India's AI Infrastructure.*
 
-## Part 3 — Model Capabilities
-
-*Coming soon.*
+- *Part 2: Energy — Coming soon*
+- *Part 3: Model Capabilities — Coming soon*
